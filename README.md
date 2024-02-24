@@ -9,5 +9,5 @@ Welcome to my portfolio project on Data Exploration with SQL! In this project, I
 **Data Exploration:** Dive into the world of SQL queries as we explore our dataset to gain insights and answer key questions.
 
 # Technologies Used
-SQL
+SQL                                                                                                                                         
 GitHub
