@@ -5,7 +5,7 @@ Welcome to my portfolio project on Data Exploration with SQL! In this project, I
 
 # Overview of Contents
 **Getting Our Dataset:** Learn how to obtain the dataset we'll be using for this project.                                                    
-**Importing Datasets into SQL:** Follow along as we import our dataset into an SQL database for analysis.
+**Importing Datasets into SQL:** Follow along as we import our dataset into an SQL database for analysis.                                    
 **Data Exploration:** Dive into the world of SQL queries as we explore our dataset to gain insights and answer key questions.
 
 # Technologies Used
